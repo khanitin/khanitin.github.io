@@ -65,7 +65,7 @@ collection_option:
     label: Technical Skills
     visibility: true
   publications: 
-    label: Publications
+    label: Publications (highlight)
     visibility: true
   volunteerexperience: 
     label: Volunteer Experience
@@ -80,8 +80,10 @@ collection_option:
 navigation:
 - title: About
   url: /
+- title: Publications
+  url: /publications
 - title: Courses
-  url: /
+  url: /courses
 - title: Blog
   url: /blog/
 - title: Contact
