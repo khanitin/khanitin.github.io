@@ -1,7 +1,7 @@
 ---
-degree: B.Sc in Electrical and Electronics Engineering
-institute: Ahsanullah University of Science and Technology
+degree: B.A. 1st class honors in Psychology
+institute: Valaya Alongkorn Rajabhat University under the Royal Patronage, Thailand
 duration: 2016 - 2020
-excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac sapien vel sem tristique consequat ac eu magna. Nulla condimentum erat quis enim tempor consequat.
+excerpt: project titled "Digital emotional intelligence factors affecting cyberbullying and hate speech among university students".
 order: 1
 ---
