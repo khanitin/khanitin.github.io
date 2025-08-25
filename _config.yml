@@ -52,11 +52,11 @@ collections:
 
 # About Page Options
 collection_option:
-  experience: 
-    label: Experience
-    visibility: true
   education: 
     label: Education
+    visibility: true
+  experience: 
+    label: Experience
     visibility: true
   projects: 
     label: Projects
@@ -79,6 +79,8 @@ collection_option:
 
 navigation:
 - title: About
+  url: /
+- title: Courses
   url: /
 - title: Blog
   url: /blog/
