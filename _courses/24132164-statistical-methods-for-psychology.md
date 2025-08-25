@@ -1,12 +1,12 @@
 ---
-title: "วิธีสถิติสำหรับจิตวิทยา (Statistical Methods for Psychology)"
+title: "Statistical Methods for Psychology"
 layout: course
 category: Psychology
-excerpt: "สถิติเบื้องต้น การประมาณค่า การแจกแจงกลุ่มตัวอย่าง การทดสอบค่าเฉลี่ยกลุ่มตัวอย่าง การทดสอบไค-สแควร์ การวิเคราะห์ความแปรปรวน สหสัมพันธ์ การวิเคราะห์การถดถอย สถิตินอนพาราเมตริกที่ใช้ในจิตวิทยา วิเคราะห์ข้อมูลด้วยโปรแกรมสำเร็จรูป"
+excerpt: "Fundamental statistics, estimation, sampling distribution, test of sample mean differences, chi-square test, analysis of variance, correlation, regression analysis, nonparametric statistics for psychology using spss for data analysis"
 featured: 
 ---
 
-## ชื่อวิชา วิธีสถิติสำหรับจิตวิทยา (Statistical Methods for Psychology)
+## ชื่อวิชา วิธีสถิติสำหรับจิตวิทยา
 ## รหัสวิชา 24132164
 ### ระดับการศึกษา
 ปริญญาตรี
