@@ -1,9 +1,9 @@
-name: Arnob Karmokar
-tagline: Electrical and Electronic Engineer
-career-objective: This is a GitHub Pages template for academic portfolio websites. Fork <a href="https://github.com/academicportfolio/academicportfolio.github.io">this repository</a> to get started. This section will be replaced by your career objective. Read the README of the repository to learn about customizing the site.
-color-theme: red # red or blue
+name: Khanitin Jornokgoud
+tagline: Cognitive Psychologist
+career-objective: My research focuses on the areas where neuroscience, psychology, and machine learning meet.
+color-theme: blue # red or blue
 avatar-filename: avatar.png # Change to your avatar's filename
-url: academicportfolio.github.io
+url: khanitin.github.io
 baseurl: /
 paginate: 5
 paginate_path: "/blog/page:num/"
@@ -12,16 +12,16 @@ paginate_path: "/blog/page:num/"
 social:
   email: 
     visibility: true
-    mail: contact@arnob.me
+    mail: khanitin.j@gmail.com
   github: 
     visibility: true
-    handle: arnobk
+    handle: khanitin
   linkedin: 
     visibility: true
-    handle: arnobkarmokar
+    handle: khanitin
   twitter: 
     visibility: true
-    handle: arnobdotme
+    handle: khanitin
 
 # Collections
 collections:
