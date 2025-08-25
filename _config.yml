@@ -18,10 +18,10 @@ social:
     handle: khanitin
   linkedin: 
     visibility: true
-    handle: khanitin
+    handle: khanitin-jornkokgoud-52567437
   twitter: 
     visibility: true
-    handle: khanitin
+    handle: TJornkokgoud
 
 # Collections
 collections:
@@ -57,25 +57,25 @@ collection_option:
     visibility: true
   experience: 
     label: Experience
-    visibility: true
+    visibility: false
   projects: 
     label: Projects
-    visibility: true
+    visibility: false
   skills: 
     label: Technical Skills
-    visibility: true
+    visibility: false
   publications: 
     label: Publications (highlight)
     visibility: true
   volunteerexperience: 
     label: Volunteer Experience
-    visibility: true
+    visibility: false
   certifications: 
     label: Certifications
-    visibility: true
+    visibility: false
   achievements: 
     label: Achievements
-    visibility: true
+    visibility: false
 
 navigation:
 - title: About
@@ -121,11 +121,11 @@ defaults:
 
 # Disqus Comment
 disqus:
-  shortname: academic-portfolio # Change with your own disqus shortname
+  shortname: Khanitin-Jornkokgoud's-site # Change with your own disqus shortname
 
 # Contact Form
 formspree:
-  endpoint: https://formspree.io/f/xdorkgkv # Change with your own form's endpoint
+  endpoint: https://formspree.io/f/xnnbarvy # Change with your own form's endpoint
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: G-JTN9P9365S
