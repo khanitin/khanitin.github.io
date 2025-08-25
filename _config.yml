@@ -84,7 +84,7 @@ navigation:
 - title: Publications
   url: /publications/
 - title: Courses
-  url: /courses
+  url: /courses/
 - title: Blog
   url: /blog/
 - title: Contact
@@ -119,7 +119,13 @@ defaults:
       permalink: /publications/:title
       layout: publication
       comments: false
-
+  - scope:
+      path: ''
+      type: courses
+    values:
+      permalink: /:categories/:title
+      layout: course
+      comments: true
 # Disqus Comment
 disqus:
   shortname: Khanitin-Jornkokgoud's-site # Change with your own disqus shortname
