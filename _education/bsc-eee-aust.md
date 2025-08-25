@@ -5,6 +5,7 @@ duration: 2017 - 2022
 excerpt: thesis titled "The Effect of Online Individual Counseling based on Cognitive Behavior Therapy to Reduce Stress".
 order: 1
 ---
+---
 degree: B.A. 1st class honors in Psychology
 institute: Valaya Alongkorn Rajabhat University under the Royal Patronage, Thailand
 duration: 2016 - 2020
