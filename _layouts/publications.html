@@ -9,7 +9,7 @@ layout: default
     {% for publication in site.publications reversed %}
     <div class="ap-publication">
         <a class="ap-publication-title" href="{{publication.url}}">{{publication.title}}</a>
-        <p class="ap-publication-year">{{publication.year}}</p>
+        <p class="ap-publication-year">{{publication.year}} {{publication.journal}}</p>
         <p class="ap-publication-excerpt">{{publication.excerpt}}</p>
     </div>
     {% endfor %}
