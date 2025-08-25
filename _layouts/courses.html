@@ -5,7 +5,7 @@ layout: default
 <div class="ap-block">
     {% for course in paginator.courses %}
     <div class="ap-courses-course">
-        <a class="ap-courses-title" href="{{ course.url }}">{{ course.title}}</a>
+        <a class="ap-courses-title" href="{{ course.title }}">{{ course.title}}</a>
         <p class="ap-courses-excerpt">{{course.excerpt}}</p>
     </div>
     {% endfor %}
