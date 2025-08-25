@@ -1,26 +1,14 @@
 ---
 layout: default
+title: Courses
 ---
-<!-- courses -->
+
 <div class="ap-block">
-    {% for course in paginator.courses %}
+  {% assign courses = site.courses %}
+  {% for course in courses %}
     <div class="ap-courses-course">
-        <a class="ap-courses-title" href="{{ course.title }}">{{ course.title}}</a>
-        <p class="ap-courses-excerpt">{{course.excerpt}}</p>
+      <a class="ap-courses-title" href="{{ course.url | relative_url }}">{{ course.title }}</a>
+      <p class="ap-courses-excerpt">{{ course.excerpt }}</p>
     </div>
-    {% endfor %}
-</div>
-<!-- PAGINATION -->
-<div class="ap-pagination">
-    <ul>
-        {% for page in (1..paginator.total_pages) %}
-        {% if page == paginator.page %}
-        <li><em>{{ page }}</em></li>
-        {% elsif page == 1 %}
-        <li><a href="/courses">{{ page }}</a></li>
-        {% else %}
-        <li><a href="{{ site.paginate_course_path | relative_url | replace: ':num', page }}">{{ page }}</a></li>
-        {% endif %}
-        {% endfor %}
-    </ul>
+  {% endfor %}
 </div>

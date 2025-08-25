@@ -50,7 +50,10 @@ collections:
   achievements:
     output: false
     sort_by: year
-
+  courses:             
+    output: true
+    sort_by: title 
+    
 # About Page Options
 collection_option:
   education: 
@@ -125,7 +128,7 @@ defaults:
     values:
       permalink: /courses/:title
       layout: course
-      comments: true
+      comments: false
 # Disqus Comment
 disqus:
   shortname: Khanitin-Jornkokgoud's-site # Change with your own disqus shortname
