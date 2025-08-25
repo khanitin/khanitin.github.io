@@ -1,6 +1,6 @@
-name: Khanitin Jornokgoud
+name: Khanitin Jornkokgoud
 tagline: Cognitive Psychologist
-career-objective: My research focuses on the areas where neuroscience, psychology, and machine learning meet.
+career-objective: My research focuses on the areas where cognitive psychology, cognitive, social and affective neuroscience, as well as machine learning meet.
 color-theme: blue # red or blue
 avatar-filename: avatar.png # Change to your avatar's filename
 url: khanitin.github.io
@@ -25,10 +25,10 @@ social:
 
 # Collections
 collections:
-  experience:
+  education:
     output: false
     sort_by: order
-  education:
+  experience:
     output: false
     sort_by: order
   projects:
