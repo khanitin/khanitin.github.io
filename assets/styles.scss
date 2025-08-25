@@ -482,7 +482,39 @@ a:hover {
     font-size: 16px;
 }
 
+
+.ap-courses-course {
+    margin: 16px 0px;
+}
+
+.ap-courses-title {
+    font-family: "DM Sans", sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: #000 !important;
+}
+
+.ap-courses-title:hover {
+    color: $link !important;
+}
+
+.ap-courses-timestamp {
+    font-family: "DM Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #8f8f8f;
+    margin: 4px 0px 8px;
+}
+
+.ap-courses-excerpt {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    line-height: 1.3em;
+    font-size: 16px;
+}
+
 .ap-blog-title-single,
+.ap-courses-title-single,
 .ap-project-title-single,
 .ap-publication-title-single {
     font-family: "DM Sans", sans-serif;
@@ -493,6 +525,7 @@ a:hover {
 }
 
 .ap-blog-timestamp-single,
+.ap-courses-timestamp-single,
 .ap-project-timestamp-single,
 .ap-publication-timestamp-single {
     font-family: "DM Sans", sans-serif;
@@ -503,6 +536,7 @@ a:hover {
 }
 
 .ap-blog-featured-single,
+.ap-courses-featured-single,
 .ap-project-featured-single,
 .ap-publication-featured-single {
     width: 100%;
@@ -511,6 +545,7 @@ a:hover {
 }
 
 .ap-blog-content,
+.ap-courses-content,
 .ap-project-content,
 .ap-publication-content {
     margin: 12px auto;
@@ -518,6 +553,12 @@ a:hover {
 }
 
 .ap-blog-content h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.ap-courses-content h1,
 h2,
 h3,
 h4,
@@ -540,6 +581,7 @@ h6 {
 }
 
 .ap-blog-content blockquote,
+.ap-courses-content blockquote,
 .ap-project-content blockquote,
 .ap-publication-content blockquote {
     margin: 10px 0 10px;
@@ -551,6 +593,7 @@ h6 {
 }
 
 .ap-blog-content table,
+.ap-courses-content table,
 .ap-project-content table,
 .ap-publication-content table {
     border-collapse: collapse;
@@ -559,6 +602,8 @@ h6 {
 }
 
 .ap-blog-content th,
+td,
+.ap-courses-content th,
 td,
 .ap-project-content th,
 td,
@@ -569,6 +614,7 @@ td {
 }
 
 .ap-blog-content th,
+.ap-courses-content th,
 .ap-project-content th,
 .ap-publication-content th {
     text-align: left;

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h2 class="ap-courses-title-single">{{page.title}}</h2>
+<p class="ap-courses-timestamp-single">{{page.date | date: "%-d %b %Y"}}</p>
+<img class="ap-courses-featured-single" src="{{page.featured}}"/>
+
+<div class="ap-courses-content">
+    {{content}}
+</div>
+
+{% if site.disqus.shortname %}
+  {% include disqus.html %}
+{% endif %}

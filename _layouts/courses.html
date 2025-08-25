@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<!-- Courses -->
+<div class="ap-block">
+    {% for post in paginator.courses %}
+    <div class="ap-courses-course">
+        <a class="ap-courses-title" href="{{ course.url }}">{{ post.title}}</a>
+        <p class="ap-courses-timestamp">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <p class="ap-courses-excerpt">{{post.excerpt}}</p>
+    </div>
+    {% endfor %}
+</div>
+<!-- PAGINATION -->
+<div class="ap-pagination">
+    <ul>
+        {% for page in (1..paginator.total_pages) %}
+        {% if page == paginator.page %}
+        <li><em>{{ page }}</em></li>
+        {% elsif page == 1 %}
+        <li><a href="/courses">{{ page }}</a></li>
+        {% else %}
+        <li><a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a></li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+</div>
