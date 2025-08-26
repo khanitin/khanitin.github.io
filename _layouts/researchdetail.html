@@ -1,0 +1,14 @@
+---
+layout: default
+title: Research
+---
+
+<div class="ap-block">
+  {% assign research = site.research %}
+  {% for res in research %}
+    <div class="ap-courses-course">
+      <a class="ap-courses-title" href="{{ res.url | relative_url }}">{{ res.title }}</a>
+      <p class="ap-courses-excerpt">{{ res.excerpt }}</p>
+    </div>
+  {% endfor %}
+</div>

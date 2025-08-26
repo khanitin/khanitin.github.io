@@ -53,7 +53,9 @@ collections:
   courses:             
     output: true
     sort_by: title 
-    
+  research:             
+    output: true
+    sort_by: title     
 # About Page Options
 collection_option:
   education: 
@@ -84,11 +86,13 @@ collection_option:
 navigation:
 - title: About
   url: /
+- title: Research
+  url: /research/
 - title: Publications
   url: /publications/
 - title: Courses
   url: /courses/
-- title: Blog
+- title: Blog and News
   url: /blog/
 - title: Contact
   url: /contact
@@ -128,6 +132,13 @@ defaults:
     values:
       permalink: /courses/:title
       layout: course
+      comments: false
+  - scope:
+      path: ''
+      type: research
+    values:
+      permalink: /research/:title
+      layout: research
       comments: false
 # Disqus Comment
 disqus:
