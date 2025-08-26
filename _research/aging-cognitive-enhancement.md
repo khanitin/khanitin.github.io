@@ -6,7 +6,6 @@ excerpt: "Whether and how advanced technology can improve cognition and emotion 
 tags: [Cognitive Stimulation, MCI, dementia, neuropsychology]
 ---
 
-
 ### Research questions
 Whether and how advanced technology can improve cognition and emotion in older adults, and what neural mechanisms underlie these changes. 
 
@@ -29,7 +28,6 @@ Finally, I consider the limitations and boundaries of CMCS benefits. My results 
 
 
 ### See:
-Jornkokgoud, K., Makmee, P., Wongupparaj, P., & Grecucci, A. (2025). Tablet-and Group-Based Multicomponent Cognitive Stimulation for Older Adults With Mild Cognitive Impairment: Single-Group Pilot Study and Protocol for Randomized Controlled Trial. JMIR Research Protocols, 14(1), e64465. https://doi.org/10.2196/64465
+* Jornkokgoud, K., Makmee, P., Wongupparaj, P., & Grecucci, A. (2025). Tablet-and Group-Based Multicomponent Cognitive Stimulation for Older Adults With Mild Cognitive Impairment: Single-Group Pilot Study and Protocol for Randomized Controlled Trial. JMIR Research Protocols, 14(1), e64465. https://doi.org/10.2196/64465
 
-
-Jornkokgoud, K., Makmee, P., Wongupparaj, P., & Grecucci, A. (Under review/Revised). A preliminary investigation of tablet- and group-based cognitive stimulation therapy for older adults with mild cognitive impairment in Thailand. Journal of Cognitive Enhancement.
+* Jornkokgoud, K., Makmee, P., Wongupparaj, P., & Grecucci, A. (Under review). A preliminary investigation of tablet- and group-based cognitive stimulation therapy for older adults with mild cognitive impairment in Thailand. Journal of Cognitive Enhancement.
