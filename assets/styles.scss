@@ -513,6 +513,23 @@ a:hover {
     font-size: 16px;
 }
 
+.ap-courses-tags {
+    font-family: "DM Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #444444;
+    margin: 6px 0px;
+}
+
+.ap-courses-tags .ap-courses-chip {
+    border: 1px solid $link;
+    border-radius: 5px;
+    padding: 2px 4px;
+    color: $link;
+}
+
+
+
 .ap-blog-title-single,
 .ap-courses-title-single,
 .ap-project-title-single,

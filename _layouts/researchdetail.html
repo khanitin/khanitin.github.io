@@ -4,7 +4,11 @@ layout: default
 
 <h2 class="ap-courses-title-single">{{page.title}}</h2>
 <img class="ap-courses-featured-single" src="{{page.featured}}"/>
-
+<p class="ap-courses-tags">
+            {% for tag in page.tags %}
+            <span class="ap-project-chip">{{tag}}</span>
+            {% endfor %}
+</p>
 <div class="ap-courses-content">
     {{content}}
 </div>

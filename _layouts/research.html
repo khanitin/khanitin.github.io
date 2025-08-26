@@ -9,6 +9,11 @@ title: Research
     <div class="ap-courses-course">
       <a class="ap-courses-title" href="{{ res.url | relative_url }}">{{ res.title }}</a>
       <p class="ap-courses-excerpt">{{ res.excerpt }}</p>
+      <p class="ap-courses-tags">
+            {% for tag in res.tags %}
+            <span class="ap-project-chip">{{tag}}</span>
+            {% endfor %}
+      </p>
     </div>
   {% endfor %}
 </div>
