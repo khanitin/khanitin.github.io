@@ -63,7 +63,7 @@ collection_option:
     visibility: true
   experience: 
     label: Experience
-    visibility: false
+    visibility: true
   projects: 
     label: Projects
     visibility: false
