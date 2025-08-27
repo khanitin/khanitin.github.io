@@ -6,8 +6,8 @@ excerpt: "Narcissism exists on a continuum, ranging from subtle, sub-clinical tr
 featured: https://khanitin.github.io/assets/images/blognnews/The_mirror_with_jimmy.jpg
 ---
 #### about the above photo
-I’m writing this post for International Dog Day on August 26th. Today I saw my dog lying in front of a mirror, so I took this picture.
-The picture shows Jimmy, a lovely golden-colored dog, he looks very gentle and thoughtful in this picture. The way he gazes into the mirror almost feels like he’s quietly reflecting, but at the same time, it shows how calm and comfortable he feels at home. His golden fur against the patterned floor and the warm light from the curtains makes the whole scene look cozy and peaceful.
+I’m writing this post for Jimmy's birthday and International Dog Day on August 26th. Today I saw him lying in front of a mirror, so I took this picture.
+The picture shows Jimmy, a lovely golden dog, he looks very gentle and thoughtful in this picture. 
 
 ### Narcissus
 Narcissus เป็นตัวละครในเทพปกรณัมกรีกที่โด่งดังจากเรื่องราวความหลงใหลในตนเอง เขาเป็นชายหนุ่มรูปงามที่ปฏิเสธความรักจากผู้อื่น จนกระทั่งวันหนึ่งได้เห็นเงาสะท้อนของตนเองในสายน้ำและตกหลุมรักภาพนั้นอย่างถอนตัวไม่ขึ้น เขาหมกมุ่นกับการชื่นชมความงามของตัวเองจนสิ้นใจอยู่ตรงนั้น ตำนานนี้ถูกใช้เป็นสัญลักษณ์ของการหมกมุ่นในรูปลักษณ์และการรักตัวเองเกินควร ซึ่งกลายมาเป็นแรงบันดาลใจให้เกิดแนวคิดเกี่ยวกับ "narcissism" ในเวลาต่อมา

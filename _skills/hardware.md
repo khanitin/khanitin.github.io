@@ -1,5 +1,5 @@
 ---
 category: Hardware
-tags: [Arduino, FPGA, Raspberry Pi]
+tags: [Neuroscan, Emotiv, Raspberry Pi]
 order: 2
 ---
