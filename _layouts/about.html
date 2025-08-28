@@ -10,7 +10,7 @@ layout: default
 <!-- WORK EXPERIENCE -->
 <div class="ap-block">
     <p class="ap-subtitle">{{site.collection_option['experience']['label']}}</p>
-    {% for experience in site.experience | sort: "duration" | reverse %}
+    {% for experience in site.experience | sort: "yearstart" | reverse %}
     <div class="ap-experience">
         <p class="ap-experience-title">{{experience.title}}, <a href="{{experience.institute-url}}">{{experience.institute}}</a></p>
         <p class="ap-experience-year">{{experience.duration}}</p>
