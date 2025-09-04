@@ -1,8 +1,8 @@
 ---
-title: "Attention, Executive Function, and Emotional Regulation in Children"
+title: "Attention, Executive Function, and Emotional Regulation in Children and Youth"
 layout: researchdetail
 category: children
-excerpt: "How advanced technologies combined with EEG/ERP-based brain–computer interfaces (BCIs) and neurofeedback can enhance children’s cognitive and emotional development."
+excerpt: "How advanced technologies combined with EEG/ERP-based brain–computer interfaces (BCIs) and neurofeedback can enhance children and youth’s cognitive and emotional development."
 tags: [children, emotional regulation, executive function, BCI]
 ---
 

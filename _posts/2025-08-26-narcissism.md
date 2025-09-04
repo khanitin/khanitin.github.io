@@ -1,5 +1,5 @@
 ---
-title: Narcissism
+title: Narcissism from a neuroscience perspective
 layout: post
 category: narcissism
 excerpt: "Narcissism exists on a continuum, ranging from subtle, sub-clinical traits to the pathological condition of Narcissistic Personality Disorder (NPD), with each manifestation impacting mental health and interpersonal relationships to varying degrees."
