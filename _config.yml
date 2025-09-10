@@ -28,7 +28,7 @@ social:
 collections:
   education:
     output: false
-    sort_by: title
+    sort_by: degree
   experience:
     output: false
     sort_by: title
