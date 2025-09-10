@@ -28,10 +28,10 @@ social:
 collections:
   education:
     output: false
-    sort_by: order
+    sort_by: title
   experience:
     output: false
-    sort_by: yearstart
+    sort_by: title
   projects:
     output: true
     sort_by: year
