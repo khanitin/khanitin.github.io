@@ -29,9 +29,11 @@ collections:
   education:
     output: false
     sort_by: degree
+    order: descending
   experience:
     output: false
-    sort_by: title
+    sort_by: order
+    order: ascending
   projects:
     output: true
     sort_by: year

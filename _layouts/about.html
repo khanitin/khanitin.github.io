@@ -10,7 +10,7 @@ layout: default
 <!-- WORK EXPERIENCE -->
 <div class="ap-block">
     <p class="ap-subtitle">{{site.collection_option['experience']['label']}}</p>
-    {% for experience in site.experience | sort: "title" %}
+    {% for experience in site.experience %}
     <div class="ap-experience">
         <p class="ap-experience-title">{{experience.title}}, <a href="{{experience.institute-url}}">{{experience.institute}}</a></p>
         <p class="ap-experience-year">{{experience.duration}}</p>
@@ -30,7 +30,7 @@ layout: default
 <!-- EDUCATION -->
 <div class="ap-block">
     <p class="ap-subtitle">{{site.collection_option['education']['label']}}</p>
-    {% for education in site.education | sort: "degree" %}
+    {% for education in site.education %}
     <div class="ap-education">
         <p class="ap-education-degree">{{education.degree}}</p>
         <p class="ap-education-institute">{{education.institute}}</p>
