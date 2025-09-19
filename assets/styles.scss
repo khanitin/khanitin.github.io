@@ -5,7 +5,9 @@ $link: #0099ff;
 {% elsif site.color-theme == "red" %}
 $link: #862B0D;
 {% endif %}
-
+{% elsif site.color-theme == "orange" %}
+$link: #fd7301;
+{% endif %}
 * {
     margin: 0;
     padding: 0;
@@ -285,7 +287,7 @@ a:hover {
     font-family: "DM Sans", sans-serif;
     font-size: 14px;
     font-weight: 400;
-    color: #8f8f8f;
+    color: $link !important;
     margin: 4px 0px 8px;
 }
 
