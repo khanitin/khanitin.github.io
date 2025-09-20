@@ -1,41 +1,122 @@
-{%- if page.layout == "publication" -%}
-  <meta name="citation_title" content="{{ page.title | escape }}">
-  {%- if page.authors -%}
-    {%- if page.authors.first -%}
-      {%- for a in page.authors -%}
-        <meta name="citation_author" content="{{ a | strip }}">
-      {%- endfor -%}
-    {%- else -%}
-      {%- assign a_list = page.authors | split: "," -%}
-      {%- for a in a_list -%}
-        <meta name="citation_author" content="{{ a | strip }}">
-      {%- endfor -%}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {%- if page.layout == "publication" -%}
+    <meta name="citation_title" content="{{ page.title | escape }}">
+    {%- if page.authors -%}
+      {%- if page.authors.first -%}
+        {%- for a in page.authors -%}
+          <meta name="citation_author" content="{{ a | strip }}">
+        {%- endfor -%}
+      {%- else -%}
+        {%- assign a_list = page.authors | split: "," -%}
+        {%- for a in a_list -%}
+          <meta name="citation_author" content="{{ a | strip }}">
+        {%- endfor -%}
+      {%- endif -%}
     {%- endif -%}
+
+    {%- comment -%} Prefer YYYY/MM/DD; fallback to year only {%- endcomment -%}
+    {%- if page.date -%}
+      <meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">
+    {%- elsif page.year -%}
+      <meta name="citation_publication_date" content="{{ page.year }}">
+    {%- endif -%}
+
+    {%- if page.journal -%}<meta name="citation_journal_title" content="{{ page.journal | escape }}">{%- endif -%}
+    {%- if page.volume -%}<meta name="citation_volume" content="{{ page.volume }}">{%- endif -%}
+    {%- if page.issue -%}<meta name="citation_issue" content="{{ page.issue }}">{%- endif -%}
+    {%- if page.firstpage -%}<meta name="citation_firstpage" content="{{ page.firstpage }}">{%- endif -%}
+    {%- if page.lastpage -%}<meta name="citation_lastpage" content="{{ page.lastpage }}">{%- endif -%}
+    {%- if page.doi -%}<meta name="citation_doi" content="{{ page.doi }}">{%- endif -%}
+
+    {%- if page.pdf_url -%}
+      <meta name="citation_pdf_url" content="{{ page.pdf_url | absolute_url }}">
+    {%- elsif page.fulltext_html_url -%}
+      <meta name="citation_fulltext_html_url" content="{{ page.fulltext_html_url | absolute_url }}">
+    {%- endif -%}
+
+    {%- if page.abstract -%}
+      <meta name="description" content="{{ page.abstract | strip | escape }}">
+    {%- endif -%}
+
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
   {%- endif -%}
 
-  {%- comment -%} Prefer YYYY/MM/DD; fallback to year only {%- endcomment -%}
-  {%- if page.date -%}
-    <meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">
-  {%- elsif page.year -%}
-    <meta name="citation_publication_date" content="{{ page.year }}">
-  {%- endif -%}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <title>{{site.name}} - {{page.title}}</title>
+    <link rel="icon" type="image/png" href={{"assets/favicon.png" | relative_url}}>
+    <link rel="stylesheet" href={{"assets/styles.css" | relative_url}}>
+    {% if site.google_analytics %}
+    {% include analytics.html %}
+    {% endif %}
+</head>
 
-  {%- if page.journal -%}<meta name="citation_journal_title" content="{{ page.journal | escape }}">{%- endif -%}
-  {%- if page.volume -%}<meta name="citation_volume" content="{{ page.volume }}">{%- endif -%}
-  {%- if page.issue -%}<meta name="citation_issue" content="{{ page.issue }}">{%- endif -%}
-  {%- if page.firstpage -%}<meta name="citation_firstpage" content="{{ page.firstpage }}">{%- endif -%}
-  {%- if page.lastpage -%}<meta name="citation_lastpage" content="{{ page.lastpage }}">{%- endif -%}
-  {%- if page.doi -%}<meta name="citation_doi" content="{{ page.doi }}">{%- endif -%}
+<body>
+    <div class="ap-container">
+        <img class="ap-avater" src={{"assets/images/" | append: site.avatar-filename | relative_url}}
+            alt="Avatar for {{site.name}}">
+        <h1 class="ap-title">{{site.name}}</h1>
+        <h3 class="ap-tagline">{{site.tagline}}</h3>
+        <!--<div class="ap-social-header">
+            <ul>
+                {% if site.social['email']['visibility'] == true %}<li><a
+                        href="mailto:{{site.social['email']['mail']}}">Email</a></li>{% endif %}
+                {% if site.social['linkedin']['visibility'] == true %}<li><a
+                        href="https://linkedin.com/in/{{site.social['linkedin']['handle']}}"
+                        target="_blank">LinkedIn</a></li>{% endif %}
+                {% if site.social['github']['visibility'] == true %}<li><a
+                        href="https://github.com/{{site.social['github']['handle']}}" target="_blank">GitHub</a></li>{%
+                endif %}
+                {% if site.social['twitter']['visibility'] == true %}<li><a
+                        href="https://twitter.com/{{site.social['twitter']['handle']}}" target="_blank">Twitter</a></li>
+                {% endif %}
+            </ul>
+        </div> -->
+        <nav class="ap-nav">
+            <ul>
+                {% for item in site.navigation %}
+                <li><a href={{item.url | relative_url}}
+                        class="{% if item.url == page.url %}ap-active{% endif %}">{{item.title}}</a></li>
+                {% endfor %}
+            </ul>
+        </nav>
 
-  {%- if page.pdf_url -%}
-    <meta name="citation_pdf_url" content="{{ page.pdf_url | absolute_url }}">
-  {%- elsif page.fulltext_html_url -%}
-    <meta name="citation_fulltext_html_url" content="{{ page.fulltext_html_url | absolute_url }}">
-  {%- endif -%}
+        <div class="ap-line"></div>
 
-  {%- if page.abstract -%}
-    <meta name="description" content="{{ page.abstract | strip | escape }}">
-  {%- endif -%}
+        <div class="ap-content">
+            {{content}}
+        </div>
 
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
-{%- endif -%}
+        <div class="ap-line"></div>
+        <!-- FOOTER -->
+        <div class="ap-footer">
+            <div class="ap-social">
+                <ul>
+                    {% if site.social['email']['visibility'] == true %}<li><a
+                            href="mailto:{{site.social['email']['mail']}}">Email</a></li>{% endif %}
+                    {% if site.social['linkedin']['visibility'] == true %}<li><a
+                            href="https://linkedin.com/in/{{site.social['linkedin']['handle']}}"
+                            target="_blank">LinkedIn</a></li>{% endif %}
+                    {% if site.social['github']['visibility'] == true %}<li><a
+                            href="https://github.com/{{site.social['github']['handle']}}" target="_blank">GitHub</a>
+                    </li>{% endif %}
+                    {% if site.social['twitter']['visibility'] == true %}<li><a
+                            href="https://twitter.com/{{site.social['twitter']['handle']}}" target="_blank">Twitter</a>
+                    </li>{% endif %}
+                </ul>
+            </div>
+            <div class="ap-copyright">&copy Copyright 2024</div>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
