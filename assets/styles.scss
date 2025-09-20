@@ -48,7 +48,7 @@ a:hover {
 .ap-tagline {
     font-family: "Syne", serif;
     font-weight: 400;
-    color: #555555;
+    color: $link;
     margin-top: 0;
     margin-bottom: 8px;
 }
@@ -75,7 +75,7 @@ a:hover {
 .ap-nav ul li .ap-active {
     text-decoration: none;
     cursor: default;
-    color: #000 !important;
+    color: $link !important;
 }
 
 .ap-line {
