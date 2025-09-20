@@ -91,8 +91,13 @@
         <div class="ap-line"></div>
 
         <h2 class="ap-publication-title-single">{{page.title}}</h2>
-        <p class="ap-publication-timestamp-single">{{page.year}} <a href="https://doi.org/{{page.doi}}">{{page.doi}}</a></p>
-        <p class="ap-publication-authors">{{page.authors}}</p>
+        <p class="ap-publication-timestamp-single">Year: {{page.year}} <a href="https://doi.org/{{page.doi}}">URL: {{page.doi}}</a></p>
+        <!--<p class="ap-publication-authors">{{page.authors}}</p>-->
+        <p class="ap-courses-tags">
+            {% for tag in page.authors %}
+            <span class="ap-courses-chip">{{tag}}</span>
+            {% endfor %}
+      </p>
         <img class="ap-publication-featured-single" src="{{page.pub-image}}"/>
 
 
