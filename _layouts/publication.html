@@ -90,9 +90,26 @@
 
         <div class="ap-line"></div>
 
-        <div class="ap-content">
+        <h2 class="ap-publication-title-single">{{page.title}}</h2>
+        <p class="ap-publication-timestamp-single">{{page.year}}</p>
+        <p class="ap-publication-authors">{{page.authors}}</p>
+        <img class="ap-publication-featured-single" src="{{page.pub-image}}"/>
+
+
+
+
+
+        {% if content %}
+        <div class="ap-publication-content">
             {{content}}
         </div>
+        {% endif %}
+
+        {% if page.pub-url %}
+        <br>
+        <p class="ap-publication-url-single">DOI: <a href="{{page.pub-url}}" target="_blank">{{page.pub-url}}</a></p>
+        {% endif %}
+
 
         <div class="ap-line"></div>
         <!-- FOOTER -->
