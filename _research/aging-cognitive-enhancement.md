@@ -26,8 +26,10 @@ Fourth, I ask whether CMCS alleviates emotional distress, specifically symptoms 
 
 Finally, I consider the limitations and boundaries of CMCS benefits. My results suggest that while cognitive and emotional improvements were significant, there were no measurable changes in quality of life. This raises an important question about which domains are most responsive to computerized training and which may require additional or complementary interventions—whether social, behavioral, or lifestyle-based—to achieve meaningful changes in everyday functioning.
 
+### Funding:
+* This research project is funded by National Research Council of Thailand (Contract N41A660157), and it is part of the research project entitled “Development of Computerized Multicomponent Cognitive Stimulation for Improving Cognitive Functions in Older Adults with Mild Cognitive Impairment: A Multimodal Investigation Using Neuropsychological and EEG/ERP Assessment.”
 
 ### See:
-* Jornkokgoud, K., Makmee, P., Wongupparaj, P., & Grecucci, A. (2025). Tablet-and Group-Based Multicomponent Cognitive Stimulation for Older Adults With Mild Cognitive Impairment: Single-Group Pilot Study and Protocol for Randomized Controlled Trial. JMIR Research Protocols, 14(1), e64465. https://doi.org/10.2196/64465
+* Jornkokgoud, K., Makmee, P., Wongupparaj, P., & Grecucci, A. (2025). Tablet-and Group-Based Multicomponent Cognitive Stimulation for Older Adults With Mild Cognitive Impairment: Single-Group Pilot Study and Protocol for Randomized Controlled Trial. JMIR Research Protocols, 14(1), e64465. <a href="https://doi.org/10.2196/64465">https://doi.org/10.2196/64465</a>
 
-* Jornkokgoud, K., Makmee, P., Wongupparaj, P., & Grecucci, A. (Under review). A preliminary investigation of tablet- and group-based cognitive stimulation therapy for older adults with mild cognitive impairment in Thailand. Journal of Cognitive Enhancement.
+* Jornkokgoud, K., Makmee, P., Wongupparaj, P., & Grecucci, A. (Accepted). A preliminary investigation of tablet- and group-based cognitive stimulation therapy for older adults with mild cognitive impairment in Thailand. Journal of Cognitive Enhancement.
