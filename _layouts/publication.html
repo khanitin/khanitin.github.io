@@ -98,7 +98,7 @@
             {% for tag in page.authors %}
               {%- if tag == "Khanitin Jornkokgoud" -%}
                  <span class="ap-courses-chip"><b>{{tag}}</b></span>
-              {%- elsif page.fulltext_html_url -%}
+              {%- else -%}
                  <span class="ap-courses-chip">{{tag}}</span>
               {%- endif -%}
             {% endfor %}
