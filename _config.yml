@@ -1,9 +1,9 @@
 name: Khanitin Jornkokgoud
-tagline: Lecturer in Psychology at the affiliate will be shown here when you decide.
+tagline: Lecturer in Psychology at <<the affiliate will be shown here when you decide>>.
 career-objective: My research focuses on the areas where psychology, cognitive, social and affective neuroscience, as well as machine learning meet.
 color-theme: orange # red or blue or orange
 avatar-filename: avatar.png # Change to your avatar's filename
-url: khanitin.github.io
+url: "https://khanitin.github.io" 
 baseurl: /
 paginate: 5
 paginate_path: "/blog/page:num/"
@@ -11,6 +11,7 @@ paginate_course_path: "/courses/page:num/"
 
 # Plugins
 plugins:
+  - jekyll-seo-tag
   - jekyll-sitemap
 
 # Social Informationkh
