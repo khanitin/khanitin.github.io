@@ -520,6 +520,9 @@ a:hover {
     font-weight: 400;
     color: #444444;
     margin: 6px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 10px; 
 }
 
 .ap-courses-tags .ap-courses-chip {
