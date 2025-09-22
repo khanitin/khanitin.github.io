@@ -2,7 +2,7 @@
 title: "Cognitive Psychology"
 layout: course
 category: Psychology
-excerpt: "Fundamental statistics, estimation, sampling distribution, test of sample mean differences, chi-square test, analysis of variance, correlation, regression analysis, nonparametric statistics for psychology using spss for data analysis"
+excerpt: "the scientific study of the mind and mental processes, including perception, imagery, attention, memory, conceptual knowledge, visual imagery, language, problem solving, creativity, decision making and reasoning."
 featured: 
 ---
 
@@ -17,7 +17,7 @@ featured:
 
 ### Course Description
 
-This course is an introduction to the scientific study of the mind andmental processes, including perception, imagery, attention, workingmemory, long-term memory, knowledge, metacognition, reasoning,decision making, and language comprehension. The focus is on thecurrent research and theory in this rapidly evolving field. We willalso consider the relevance of brain imaging and brain injuryfindings, as well as behavioral data
+This course is an introduction to the scientific study of the mind andmental processes, including perception, imagery, attention, memory, conceptual knowledge, visual imagery, language, problem solving, creativity, decision making and reasoning. The focus is on the current research and theory in this rapidly evolving field. We will also consider the relevance of cognitive neuroscience approach, as well as behavioral approach.
 
 ### Academic Calendar
 
