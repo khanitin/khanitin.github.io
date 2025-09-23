@@ -32,7 +32,7 @@ This course is an introduction to the scientific study of the mind and mental pr
 | 11 | Problem Solving and expertise| Chapter 12 | -|
 | 12 | Judegement and decision-making | Chapter 13 | -|
 | 13 | Reasoning and hypothesis testing | Chapter 14 | -|
-| 14 | Emotion and Consciousness Chapter 15-16 | -|
+| 14 | Emotion and Consciousness | Chapter 15-16 | -|
 | 15 | FINAL EXAM | -| -|
 
 ### Required Textbook and Materials
