@@ -2,43 +2,43 @@
 title: "Cognitive Psychology"
 layout: course
 category: Psychology
-excerpt: "the scientific study of the mind and mental processes, including perception, imagery, attention, memory, conceptual knowledge, visual imagery, language, problem solving, creativity, decision making and reasoning."
+excerpt: "This course is an introduction to the scientific study of the mind and mental processes, including perception, imagery, visual perception, attention, memory, language, problem solving, expertise, decision making, reasoning, emotion, and consciousness."
 featured: 
 ---
 
-## Course Name: Cognitive Psychology
-## Course Code: -
-### Course Level: undergradute
+
+### Course Code: -
+### Course Level: undergraduate
 
 ### Course Prerequisite
-
 * Introduction to Psychology
-
+* Physiological Psychology
 
 ### Course Description
 
-This course is an introduction to the scientific study of the mind andmental processes, including perception, imagery, attention, memory, conceptual knowledge, visual imagery, language, problem solving, creativity, decision making and reasoning. The focus is on the current research and theory in this rapidly evolving field. We will also consider the relevance of cognitive neuroscience approach, as well as behavioral approach.
+This course is an introduction to the scientific study of the mind and mental processes, including perception, imagery, visual perception, attention, memory, language, problem solving, expertise, decision making, reasoning, emotion, and consciousness. The focus is on the current research and theory in this rapidly evolving field. We will also consider the relevance of cognitive neuroscience approach, as well as behavioral approach.
 
 ### Academic Calendar
 
 | Week | Topic | Reading Assignments | Materials | 
 |---|---|---|---|
-| 1 | Orientation and Introduction to Cognitive Psychology | Chapter 1 |-|
-| 2 | Cognitive Neuroscience | Chapter 2 | -|
-| 3 | Perception| Chapter 3 | -|
-| 4 | Attention| Chapter 4 | -|
+| 1 | Orientation and Introduction to Human Cognition | Chapter 1 |-|
+| 2 | Cognitive Neuroscience | Chapter 1 | -|
+| 3 | Visual perception | Chapter 2-4 | -|
+| 4 | Attention| Chapter 5 | -|
 | 5-7 | Memory| Chapter 5-8 | -|
 | 8 | MIDTERM EXAM | -| -|
-| 9 | Conceptual Knowledge | Chapter 9 | -|
-| 10 | Visual Imagery | Chapter 10 | -|
-| 11 | Language | Chapter 11 | -|
-| 12 | Problem Solving & Creativity | Chapter 12 | -|
-| 13-14 | Decision Making and Reasoning| Chapter 13-14 | -|
+| 9-10 | Language | Chapter 9-10 | -|
+| 11 | Problem Solving and expertise| Chapter 12 | -|
+| 12 | Judegement and decision-making | Chapter 13 | -|
+| 13 | Reasoning and hypothesis testing | Chapter 14 | -|
+| 14 | Emotion and Consciousness Chapter 15-16 | -|
 | 15 | FINAL EXAM | -| -|
 
 ### Required Textbook and Materials
-* Cognitive Psychology: Connecting Mind, Research, and Everyday Experience, Fifth Edition E. Bruce Goldstein
+* Eysenck, M. & Keane, M. (2020). Cognitive Psychology: A Student's Handbook, 8th Edition. Psychology Press.
 
 ### Optional Textbook and Materials
-* Sternberg, R. J., Sternberg, K., & Mio, J. S. (2012). Cognitive psychology. Wadsworth/Cengage Learning,.
+* Passingham, R. (2016). Cognitive Neuroscience: A very short introduction. Oxford Univ Pr (JP). หรือ ฉบับแปลไทย ชัยภัทร ชุณหรัศมิ์. (2567). ประสาทวิทยาศาสตร์การรู้คิด: ฉบับพกพา. bookspace. 
 * Ward, J. (2019). The student's guide to cognitive neuroscience. Routledge.
+* E. Bruce Goldstein. (). Cognitive Psychology: Connecting Mind, Research, and Everyday Experience, 5th Edition.
