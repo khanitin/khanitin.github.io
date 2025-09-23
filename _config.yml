@@ -97,6 +97,8 @@ navigation:
   url: /research/
 - title: Publications
   url: /publications/
+- title: Course-:title
+  url: /courses/:title
 - title: Courses
   url: /courses/
 - title: Blog and News
