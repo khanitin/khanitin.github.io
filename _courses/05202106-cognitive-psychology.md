@@ -7,17 +7,17 @@ featured:
 ---
 
 
-### Course Code: -
-### Course Level: undergraduate
+### Code: -
+### Level: undergraduate
 
-### Credit Course: 3(3-0-6)
+### Credit: 3(3-0-6)
 * It means that this subject requires 3 hours of lecture, 0 hour of laboratory, and 6 hours of private study.
 
-### Course Prerequisite
+### Prerequisite
 * Introduction to Psychology
 * Physiological Psychology
 
-### Course Description
+### Description
 
 This course is an introduction to the scientific study of the mind and mental processes, including perception, imagery, visual perception, attention, memory, language, problem solving, expertise, decision making, reasoning, emotion, and consciousness. The focus is on the current research and theory in this rapidly evolving field. We will also consider the relevance of cognitive neuroscience approach, as well as behavioral approach.
 
