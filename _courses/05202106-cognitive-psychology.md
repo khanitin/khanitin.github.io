@@ -10,6 +10,9 @@ featured:
 ### Course Code: -
 ### Course Level: undergraduate
 
+### Credit Course: 3(3-0-6)
+* It means that this subject requires 3 hours of lecture, 0 hour of laboratory, and 6 hours of private study.
+
 ### Course Prerequisite
 * Introduction to Psychology
 * Physiological Psychology
