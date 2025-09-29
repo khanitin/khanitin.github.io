@@ -31,7 +31,9 @@
     {%- if page.lastpage -%}<meta name="citation_lastpage" content="{{ page.lastpage }}">{%- endif -%}
     {%- if page.doi -%}<meta name="citation_doi" content="{{ page.doi }}">{%- endif -%}
 
-    {%- if page.pdf_url -%}
+    {%- if page.fulltext_pdf_url -%}
+      <meta name="citation_pdf_url" content="{{ page.fulltext_pdf_url | absolute_url }}">
+    {%- elsif page.pdf_url -%}
       <meta name="citation_pdf_url" content="{{ page.pdf_url | absolute_url }}">
     {%- elsif page.fulltext_html_url -%}
       <meta name="citation_fulltext_html_url" content="{{ page.fulltext_html_url | absolute_url }}">
