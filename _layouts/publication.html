@@ -104,7 +104,11 @@
             {% endfor %}
         </p>
          <p class="ap-publication-timestamp-single">Journal: {{page.journal}} Year: {{page.year}} DOI: <a href="https://doi.org/{{page.doi}}">{{page.doi}}</a></p>
-
+         <p class="ap-courses-tags">
+               {% if fulltext_pdf_url %}
+                    <span class="ap-courses-chip"><b> <a href="{{page.fulltext_pdf_url}}">Download</a></b></span>
+              {% endif %}
+         </p>
         <br />
         <img class="ap-publication-featured-single" src="{{page.pub-image}}"/>
 
