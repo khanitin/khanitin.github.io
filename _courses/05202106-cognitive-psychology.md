@@ -26,7 +26,7 @@ This course is an introduction to the scientific study of the mind and mental pr
 | Week | Topic | Reading Assignments | Materials | 
 |---|---|---|---|
 | 1 | Orientation and Introduction to Human Cognition | Chapter 1 |-|
-| 2 | Cognitive Neuroscience | Chapter 1 | -|
+| 2 | Cognitive Neuroscience | Chapter 1 | <a href="../files/courses/cognitive-psychology/ch1-Cognitive-Neuroscience-2in1.pdf"><img src="../assets/images/pdf.png" height="30" width="30"></a> |
 | 3 | Visual perception | Chapter 2-4 | -|
 | 4 | Attention| Chapter 5 | -|
 | 5-7 | Memory| Chapter 5-8 | -|
