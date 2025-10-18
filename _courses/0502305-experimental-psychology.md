@@ -47,7 +47,7 @@ Basic concepts, processes and tools used in experimental psychology, characteris
 
 #### หมายเหตุ
 ครั้งที่/สัปดาห์ที่ 1-9 ผู้สอน อาจารย์ ดร.คณิติน จรโคกกรวด
-ครั้งที่/สัปดาห์ที่ 10-18 ผู้สอน รศ.ดร.รังสรรค์ โฉมยา
+ครั้งที่/สัปดาห์ที่ 10-18 ผู้สอน รองศาสตราจารย์ ดร.รังสรรค์ โฉมยา
 
 
 ### Required Textbook and Materials
