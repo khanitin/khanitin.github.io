@@ -97,8 +97,8 @@ navigation:
   url: /research/
 - title: Publications
   url: /publications/
-- title: Teaching
-  url: /Teaching/
+- title: Course
+  url: /Course/
 - title: Blog and News
   url: /blog/
 - title: Contact
@@ -135,10 +135,10 @@ defaults:
       comments: false
   - scope:
       path: ''
-      type: teaching
+      type: course
     values:
-      permalink: /teaching/:title
-      layout: teaching
+      permalink: /course/:title
+      layout: course
       comments: false
   - scope:
       path: ''
