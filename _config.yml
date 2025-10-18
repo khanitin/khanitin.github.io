@@ -1,5 +1,5 @@
 name: Khanitin Jornkokgoud
-tagline: "Lecturer in Psychology at ::the affiliate will be shown here when you decide.::"
+tagline: "Lecturer in Psychology at the Department of Educational Psychology and Guidance, Faculty of Education, Mahasarakham University, Thailand.
 career-objective: My research focuses on the areas where psychology, cognitive, social and affective neuroscience, as well as machine learning meet.
 color-theme: orange # red or blue or orange
 avatar-filename: avatar.png # Change to your avatar's filename
@@ -97,8 +97,8 @@ navigation:
   url: /research/
 - title: Publications
   url: /publications/
-- title: Courses
-  url: /courses/
+- title: Teaching
+  url: /Teaching/
 - title: Blog and News
   url: /blog/
 - title: Contact
@@ -135,10 +135,10 @@ defaults:
       comments: false
   - scope:
       path: ''
-      type: courses
+      type: teaching
     values:
-      permalink: /courses/:title
-      layout: course
+      permalink: /teaching/:title
+      layout: teaching
       comments: false
   - scope:
       path: ''
