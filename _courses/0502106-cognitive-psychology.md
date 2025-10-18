@@ -52,6 +52,6 @@ Human development and cognitive process, perception, learning, attention, memori
 * Eysenck, M. & Keane, M. (2020). Cognitive Psychology: A Student's Handbook, 8th Edition. Psychology Press.
 
 ### Optional Textbook and Materials
-* E. Bruce Goldstein & C. Van Hooff (2020). Cognitive Psychology, 2nd EMEA Edition. Cengage.
+* E. Bruce Goldstein & C. Van Hooff (2021). Cognitive Psychology, 2nd EMEA Edition. Cengage.
 * Ward, J. (2019). The student's guide to cognitive neuroscience. Routledge.
 * Passingham, R. (2016). Cognitive Neuroscience: A very short introduction. Oxford Univ Pr (JP). หรือ ฉบับแปลไทย ชัยภัทร ชุณหรัศมิ์. (2567). ประสาทวิทยาศาสตร์การรู้คิด: ฉบับพกพา. bookspace. 
