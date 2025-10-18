@@ -98,7 +98,7 @@ navigation:
 - title: Publications
   url: /publications/
 - title: Course
-  url: /Course/
+  url: /course/
 - title: Blog and News
   url: /blog/
 - title: Contact
@@ -135,9 +135,9 @@ defaults:
       comments: false
   - scope:
       path: ''
-      type: course
+      type: courses
     values:
-      permalink: /course/:title
+      permalink: /courses/:title
       layout: course
       comments: false
   - scope:
