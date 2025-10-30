@@ -32,4 +32,4 @@ Finally, I consider the limitations and boundaries of CMCS benefits. My results 
 ### See:
 * Jornkokgoud, K., Makmee, P., Wongupparaj, P., & Grecucci, A. (2025). Tablet-and Group-Based Multicomponent Cognitive Stimulation for Older Adults With Mild Cognitive Impairment: Single-Group Pilot Study and Protocol for Randomized Controlled Trial. JMIR Research Protocols, 14(1), e64465. <a href="https://doi.org/10.2196/64465">https://doi.org/10.2196/64465</a>
 
-* Jornkokgoud, K., Makmee, P., Wongupparaj, P., & Grecucci, A. (Accepted). A preliminary investigation of tablet- and group-based cognitive stimulation therapy for older adults with mild cognitive impairment in Thailand. Journal of Cognitive Enhancement.
+* Jornkokgoud, K., Makmee, P., Wongupparaj, P., & Grecucci, A. (2025). A preliminary investigation of tablet- and group-based cognitive stimulation therapy for older adults with mild cognitive impairment in Thailand. Journal of Cognitive Enhancement. <a href="https://doi.org/10.1007/s41465-025-00335-3">https://doi.org/10.1007/s41465-025-00335-3</a>

@@ -12,8 +12,15 @@ My research question explores the intersection of personality psychology, affect
 ### Methodology
 By investigating these links with tools like EEG/ERP, MRI/fMRI, or network analysis, my work bridges descriptive trait models with neural and well-being mechanisms, offering a deeper understanding of how personality is embedded in emotional processes and how both together influence well-being. 
 
-### See:
-* Yurayat, P., Choomphunuch, B., Suk-erb, W., Lebkhao, D., Jornkokgoud, K. (2025). The PERMA Well-being Scale Assessment in Undergraduate Students: Confirmatory Factor Analysis and Network Analysis. International Journal of Evaluation and Research in Education, 14(5), 3824-3837. <a href="http://doi.org/10.11591/ijere.v14i5.32369">http://doi.org/10.11591/ijere.v14i5.32369</a>
+### See personality:
+* <b>Jornkokgoud, K.</b>, Bakiaj, R., Wongupparaj, P., Job, R., Grecucci, A. (2025). Narcissistic and Antisocial Personality Traits are both encoded in the Triple Network: Connectomics evidence. Psychophysiology, 62(8), e70130. <a href="https://doi.org/10.1111/psyp.70130>https://doi.org/10.1111/psyp.70130</a>
 
-* Yurayat, P., Ghomroudi, P. A., Jornkokgoud, K. (Under review). Gender Differences in PERMA Well-being Among University Students: A Network Analysis.
-International Journal of Adolescence and Youth.
+* <b>Jornkokgoud, K.</b>, Baggio, T., Bakiaj, R., Wongupparaj, P., Job, R., Grecucci, A. (2024). Narcissus reflected: gray and white matter features joint contribution to the default mode network in predicting narcissistic personality traits. European Journal of Neuroscience. <a href="https://doi.org/10.1111/ejn.16345">https://doi.org/10.1111/ejn.16345</a>
+
+* <b>Jornkokgoud, K.</b>, Baggio, T., MD, F., Bakiaj, R., Wongupparaj, P., Job, R., Grecucci, A. (2023). Decoding Narcissistic Personality Traits from Brain and Psychological Features: A Supervised Machine Learning Approach. Social Neuroscience, 18(5), 257-270. <a href="https://doi.org/10.1080/17470919.2023.2242094">https://doi.org/10.1080/17470919.2023.2242094</a>
+
+### See well-being:
+* Yurayat, P., Choomphunuch, B., Suk-erb, W., Lebkhao, D., <b>Jornkokgoud, K.</b> (2025). The PERMA Well-being Scale Assessment in Undergraduate Students: Confirmatory Factor Analysis and Network Analysis. International Journal of Evaluation and Research in Education, 14(5), 3824-3837. <a href="http://doi.org/10.11591/ijere.v14i5.32369">http://doi.org/10.11591/ijere.v14i5.32369</a>
+
+* Yurayat, P., Ghomroudi, P. A., <b>Jornkokgoud, K.</b> (Under review). Gender Differences in PERMA Well-being Among University Students: A Network Analysis. International Journal of Adolescence and Youth.
+
