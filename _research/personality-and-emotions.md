@@ -13,7 +13,7 @@ My research question explores the intersection of personality psychology, affect
 By investigating these links with tools like EEG/ERP, MRI/fMRI, or network analysis, my work bridges descriptive trait models with neural and well-being mechanisms, offering a deeper understanding of how personality is embedded in emotional processes and how both together influence well-being. 
 
 ### See personality:
-* <b>Jornkokgoud, K.</b>, Bakiaj, R., Wongupparaj, P., Job, R., Grecucci, A. (2025). Narcissistic and Antisocial Personality Traits are both encoded in the Triple Network: Connectomics evidence. Psychophysiology, 62(8), e70130. <a href="https://doi.org/10.1111/psyp.70130>https://doi.org/10.1111/psyp.70130</a>
+* <b>Jornkokgoud, K.</b>, Bakiaj, R., Wongupparaj, P., Job, R., Grecucci, A. (2025). Narcissistic and Antisocial Personality Traits are both encoded in the Triple Network: Connectomics evidence. Psychophysiology, 62(8), e70130. <a href="https://doi.org/10.1111/psyp.70130">https://doi.org/10.1111/psyp.70130</a>
 
 * <b>Jornkokgoud, K.</b>, Baggio, T., Bakiaj, R., Wongupparaj, P., Job, R., Grecucci, A. (2024). Narcissus reflected: gray and white matter features joint contribution to the default mode network in predicting narcissistic personality traits. European Journal of Neuroscience. <a href="https://doi.org/10.1111/ejn.16345">https://doi.org/10.1111/ejn.16345</a>
 
