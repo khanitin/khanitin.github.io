@@ -22,5 +22,5 @@ By investigating these links with tools like EEG/ERP, MRI/fMRI, or network analy
 ### See well-being:
 * Yurayat, P., Choomphunuch, B., Suk-erb, W., Lebkhao, D., <b>Jornkokgoud, K.</b> (2025). The PERMA Well-being Scale Assessment in Undergraduate Students: Confirmatory Factor Analysis and Network Analysis. International Journal of Evaluation and Research in Education, 14(5), 3824-3837. <a href="http://doi.org/10.11591/ijere.v14i5.32369">http://doi.org/10.11591/ijere.v14i5.32369</a>
 
-* Yurayat, P., Ghomroudi, P. A., <b>Jornkokgoud, K.</b> (Accepted). Gender Differences in PERMA Well-being Among University Students: A Network Analysis. International Journal of Adolescence and Youth.  <a href="http://doi.org/10.1080/02673843.2025.2610644">http://doi.org/10.1080/02673843.2025.2610644</a>
+* Yurayat, P., Ghomroudi, P. A., <b>Jornkokgoud, K.</b> (2026). Gender Differences in PERMA Well-being Among University Students: A Network Analysis. International Journal of Adolescence and Youth, 31(1), 2610644.  <a href="http://doi.org/10.1080/02673843.2025.2610644">http://doi.org/10.1080/02673843.2025.2610644</a>
 
